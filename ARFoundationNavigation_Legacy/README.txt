@@ -1,6 +1,7 @@
 Unity Version - 2019.0.2.1.f1
 ARFoundation - 2.2.0 preview .3
 ARCore XR Plugin - 2.2.0 preview .2
+ARKit XR plugin - 2.2.0 preview .5
 
 Issue
 
