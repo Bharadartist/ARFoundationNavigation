@@ -19,19 +19,9 @@ MonoBehaviour:
       m_GuidLow: 5734156266035297592
       m_GuidHigh: 10774406559242637714
     m_SerializedTextureGuid:
-      m_GuidLow: 7445650827915756469
-      m_GuidHigh: 4082448414918532171
-    m_Size: {x: 0.2, y: 0.2}
-    m_SpecifySize: 1
-    m_Name: InfyMe1
-    m_Texture: {fileID: 0}
-  - m_SerializedGuid:
-      m_GuidLow: 4659599723016969584
-      m_GuidHigh: 1216936735945213851
-    m_SerializedTextureGuid:
-      m_GuidLow: 9891301894655599952
-      m_GuidHigh: 9178686068216631128
-    m_Size: {x: 0.2, y: 0.2}
-    m_SpecifySize: 1
-    m_Name: InfyMe2
+      m_GuidLow: 11471894021306241325
+      m_GuidHigh: 1303584117069158072
+    m_Size: {x: 1, y: 1}
+    m_SpecifySize: 0
+    m_Name: InfyMe
     m_Texture: {fileID: 0}
